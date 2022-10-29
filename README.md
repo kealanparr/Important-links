@@ -5,4 +5,4 @@ I have a codebase called "Every Link I Wish I Had" to learn new tech concepts. T
 - https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html
 
 # Mobile
-- https://www.reddit.com/r/science/comments/tsadmp/brain_tumours_for_mobile_phone_users_research_on/?utm_medium=android_app&utm_source=share
+- https://www.ox.ac.uk/news/2022-03-30-no-increased-risk-brain-tumours-mobile-phone-users-new-study-finds
